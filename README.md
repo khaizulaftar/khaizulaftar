@@ -2,12 +2,10 @@
 <h4 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
 
 <br>
-<br>
 
 ### 👨‍💻 About Me:
 I am a Full Stack Web Developer focusing on creating efficient, scalable, and user-friendly web applications. With experience in various front-end and back-end technologies, I am committed to continuously honing my skills and staying up to date with the latest trends in web development.
 
-<br>
 <br>
 
 ### 🌱 Currently Learning:
@@ -15,7 +13,6 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 - **Next.js** for building server-side rendered React applications.
 - **Docker** for containerizing web applications.
 
-<br>
 <br>
 
 ### 📫 Connect with Me:
@@ -25,7 +22,6 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
   <a href="mailto:khaizulaftar150704@gmail.com" target="_blank"><img  src="https://img.icons8.com/color/40/gmail-new.png" alt="gmail-new"/></a>
 </p>
 
-<br>
 <br>
 
 ### 🛠️ Languages and Tools:
@@ -47,7 +43,6 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 </p>
 
 <br>
-<br>
 
 ### 🧑‍💼 Work Experience:
 **Personal Secretary**  
@@ -58,7 +53,6 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 - Organized meetings and communicated with external parties.
 - Ensured smooth workflow within the department.
 
-<br>
 <br>
 
 ### 📈 GitHub Stats:
