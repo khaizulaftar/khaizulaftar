@@ -45,6 +45,7 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 <br>
 
 ### 🧑‍💼 Work Experience
+
 **Personal Secretary**  
 *Kepolisian Negara Republik Indonesia*  
 *Padang, West Sumatra, Indonesia · On-site*  
@@ -52,6 +53,13 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 - Assisted with administrative tasks and schedule management.
 - Organized meetings and communicated with external parties.
 - Ensured smooth workflow within the department.
+
+**Freelance Web Developer**  
+*Siko Kebab*  
+*Padang, West Sumatra, Indonesia · Remote*  
+*February 3, 2025 – February 27, 2025*  
+- Developed a web application to streamline ingredient management and income tracking.
+- Utilized **Next.js**, **Tailwind CSS**, and **MySQL** for efficient data handling and enhanced user experience.
 
 <br>
 
