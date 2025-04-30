@@ -1,32 +1,32 @@
 <h3 align="center">Hi 👋, I'm Khaizul Aftar</h3>
-<h4 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
+<h4 align="center">A passionate Full Stack Web Developer from Indonesia</h4>
 
 <br>
 
-### 👨‍💻 About Me:
-I am a Full Stack Web Developer focusing on creating efficient, scalable, and user-friendly web applications. With experience in various front-end and back-end technologies, I am committed to continuously honing my skills and staying up to date with the latest trends in web development.
+### 👨‍💻 About Me
+I am a Full Stack Web Developer focusing on creating efficient, scalable, and user-friendly web applications. With experience in both front-end and back-end technologies, I am committed to continuously honing my skills and staying up to date with the latest trends in web development.
 
 <br>
 
-### 🌱 Currently Learning:
+### 🌱 Currently Learning
 - **Kotlin** for mobile development.
 - **Next.js** for building server-side rendered React applications.
 - **Docker** for containerizing web applications.
 
 <br>
 
-### 📫 Connect with Me:
+### 📫 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/khaizulaftar" target="_blank"><img src="https://img.icons8.com/fluency/40/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/khaizulaftar" target="_blank"><img src="https://img.icons8.com/fluency/40/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/khaizulaftar" target="_blank"><img src="https://img.icons8.com/fluency/40/github.png" alt="github"/></a>
-  <a href="mailto:khaizulaftar150704@gmail.com" target="_blank"><img  src="https://img.icons8.com/color/40/gmail-new.png" alt="gmail-new"/></a>
+  <a href="mailto:khaizulaftar150704@gmail.com" target="_blank"><img src="https://img.icons8.com/color/40/gmail-new.png" alt="gmail-new"/></a>
 </p>
 
 <br>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/40/html-5--v1.png" alt="html-5--v1"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/40/html-5--v1.png" alt="html-5--v1"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/40/css3.png" alt="css3"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/40/javascript--v1.png" alt="javascript--v1"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/40/typescript.png" alt="typescript"/></a>
@@ -44,7 +44,7 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 
 <br>
 
-### 🧑‍💼 Work Experience:
+### 🧑‍💼 Work Experience
 **Personal Secretary**  
 *Kepolisian Negara Republik Indonesia*  
 *Padang, West Sumatra, Indonesia · On-site*  
@@ -55,11 +55,10 @@ I am a Full Stack Web Developer focusing on creating efficient, scalable, and us
 
 <br>
 
-### 📈 GitHub Stats:
-
+### 📈 GitHub Stats
 <p align="left">
-<a href="https://github.com/khaizulaftar">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaizulaftar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaizulaftar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/khaizulaftar">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaizulaftar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaizulaftar&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
